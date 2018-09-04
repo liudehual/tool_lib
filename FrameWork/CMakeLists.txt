@@ -1,0 +1,5 @@
+project(tool-lib)
+add_subdirectory(CommonUtilitiesLib-linux-windows)
+add_subdirectory(CommonUtilitiesLib-linux)
+add_subdirectory(Demo)
+add_subdirectory(SimpleFrameWork)
